@@ -1,8 +1,8 @@
 # Hi, I'm Elena 👋
 
-I am a Developer focused on building efficient **Python automation** and **Web solutions** that solve real-world business problems.
+I am a Developer who develops mostly web and mobile projects.
 
 ### 🛠 Technical Skills
-- **Languages:** Python (Pandas, Selenium, Requests), JavaScript
+- **Languages:** Python (Pandas, Selenium, Requests), JavaScript, Dart, C#
 - **Web:** HTML5, CSS3, Responsive Web Design
 - **Tools:** Git, GitHub, VS Code, SQL
